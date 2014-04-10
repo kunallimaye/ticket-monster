@@ -10,7 +10,7 @@
 
     <name>ticket-monster</name>
 
-    <description>{Test} A starter HTML5 + REST webapp project for use on JBoss EAP.</description>
+    <description>A starter HTML5 + REST webapp project for use on JBoss EAP.</description>
 
     <properties>
         <!-- Explicitly declaring the source encoding eliminates the following 
